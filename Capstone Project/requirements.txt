@@ -1,0 +1,14 @@
+ultralytics
+pillow
+ipython
+matplotlib
+numpy
+opencv-python
+scipy
+paddleocr
+datasets
+transformers
+torch
+scikit-learn
+scikit-image
+streamlit
