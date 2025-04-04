@@ -2,8 +2,8 @@ datasets==3.4.1
 ipython==8.12.3
 matplotlib==3.10.1
 numpy==1.26.4
-opencv-python-headless==4.11.0.86
-paddlepaddle==2.6.1  # Add this line for paddlepaddle dependency
+opencv-python-headless==4.11.0.86  # Use headless OpenCV
+paddlepaddle==2.6.1  # Ensure PaddlePaddle is installed
 paddleocr==2.9.1
 Pillow==11.1.0
 protobuf==3.20.3
