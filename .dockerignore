@@ -1,0 +1,13 @@
+__pycache__/
+fine_tuned_t5_updated/
+T5_Training/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.ipynb_checkpoints/
+*.ipynb
+.DS_Store
+.git
