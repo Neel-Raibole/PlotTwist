@@ -1,0 +1,18 @@
+path: '/content/drive/My Drive/YOLO_Training/capstone_project'  # absolute path
+train: images/train  # train images (relative to 'path')
+val: images/val  # val images (relative to 'path')
+
+# Classes
+names:
+  0: X Axis
+  1: Y Axis
+  2: Title
+  3: Legend
+  4: Bar Chart
+  5: Line Chart
+  6: Pie Chart
+  7: Data Points
+  8: X Axis Ticks
+  9: Y Axis Ticks
+  10: X Axis Title
+  11: Y Axis Title
