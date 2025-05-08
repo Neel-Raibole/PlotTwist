@@ -98,20 +98,20 @@ Annotations are saved in YOLO format and were used to train the detection model.
 ### Sample Images
 **Bar Chart Samples**
 <p align="center">
-  <img src="http://url/to/img1.png" alt="Non-Annotated Bar Chart" width="475"/>
-  <img src="http://url/to/img1.png" alt="Annotated Bar Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bar%20chart%20non-annotated.png" alt="Non-Annotated Bar Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bar%20chart%20annotated.jpg" alt="Annotated Bar Chart" width="475"/>
 </p>
 
 **Line Chart Samples**
 <p align="center">
-  <img src="http://url/to/img1.png" alt="Non-Annotated Line Chart" width="475"/>
-  <img src="http://url/to/img1.png" alt="Annotated Line Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/line%20chart%20non-annotated.png" alt="Non-Annotated Line Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/line%20chart%20annotated.jpg" alt="Annotated Line Chart" width="475"/>
 </p>
 
 **Pie Chart Samples**
 <p align="center">
-  <img src="http://url/to/img1.png" alt="Non-Annotated Pie Chart" width="475"/>
-  <img src="http://url/to/img1.png" alt="Annotated Pie Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pie%20chart%20non-annotated.png" alt="Non-Annotated Pie Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pie%20chart%20annotated.jpg" alt="Annotated Pie Chart" width="475"/>
 </p>
 
 ## 5. Methodology
@@ -163,7 +163,7 @@ The YOLOv11 model was trained to detect chart components (titles, legends, axes,
 - **Optimizer**: Stochastic Gradient Descent (SGD) with momentum—found to outperform Adam for this vision task
 
 ### 6.2 Training Artifacts
-- **Final Weights**:[](https://github.com/Neel-Raibole/DataZymes/tree/main/run2/detect/final_model_continued/weights)
+- **Final Weights**:[best.pt File Link](https://github.com/Neel-Raibole/DataZymes/tree/main/run2/detect/final_model_continued/weights)
 - **Training Logs & Metrics**: Stored alongside weights in the same directory
 
 ### 6.3 Example Training Invocation
@@ -297,11 +297,11 @@ This section presents the key quantitative results from YOLOv11 training and qua
 
 ### 10.1 YOLOv11 Detection Performance
 
-Training Metrics Plot:
-![YOLO Training Results Image](urlplaceholder.jpg)
+**Training Metrics Plot:**
+![YOLO Training Results Image](https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/results.png)
 
-Confusion Matrix:
-![YOLO training outputs](urlplaceholder.jpg)
+**Confusion Matrix:**
+![YOLO training outputs](https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/confusion_matrix.png)
 
 #### Highlights:
 - **Overall**: Achieved 0.973 Precision, 0.991 Recall, 0.989 mAP@50, and 0.79 mAP@50–95 across 1,281 instances.
@@ -318,38 +318,38 @@ Below are example screenshots demonstrating the end-to-end functionality:
 
 **Bar Chart with Data Point Samples**
 <p align="center">
-  <img src="http://url/to/img1.png" alt="Non-Annotated Bar Chart" width="475"/>
-  <img src="http://url/to/img1.png" alt="Annotated Bar Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wd%201.jpg" alt="Non-Annotated Bar Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wd%202.jpg" alt="Annotated Bar Chart" width="475"/>
 </p>
 
 **Bar Chart without Data Point Samples**
 <p align="center">
-  <img src="http://url/to/img1.png" alt="Non-Annotated Bar Chart" width="475"/>
-  <img src="http://url/to/img1.png" alt="Annotated Bar Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wod%201.jpg" alt="Non-Annotated Bar Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wod%202.jpg" alt="Annotated Bar Chart" width="475"/>
 </p>
 
 **Line Chart with Data Point Samples**
 <p align="center">
-  <img src="http://url/to/img1.png" alt="Non-Annotated Line Chart" width="475"/>
-  <img src="http://url/to/img1.png" alt="Annotated Line Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wd%201.jpg" alt="Non-Annotated Line Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wd%202.jpg" alt="Annotated Line Chart" width="475"/>
 </p>
 
 **Line Chart without Data Point Samples**
 <p align="center">
-  <img src="http://url/to/img1.png" alt="Non-Annotated Line Chart" width="475"/>
-  <img src="http://url/to/img1.png" alt="Annotated Line Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wod%201.jpg" alt="Non-Annotated Line Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wod%202.jpg" alt="Annotated Line Chart" width="475"/>
 </p>
 
 **Pie Chart with Data Point Samples**
 <p align="center">
-  <img src="http://url/to/img1.png" alt="Non-Annotated Pie Chart" width="475"/>
-  <img src="http://url/to/img1.png" alt="Annotated Pie Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wd%201.jpg" alt="Non-Annotated Pie Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wd%202.jpg" alt="Annotated Pie Chart" width="475"/>
 </p>
 
 **Pie Chart without Data Point Samples**
 <p align="center">
-  <img src="http://url/to/img1.png" alt="Non-Annotated Pie Chart" width="475"/>
-  <img src="http://url/to/img1.png" alt="Annotated Pie Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wod%201.jpg" alt="Non-Annotated Pie Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wod%202.jpg" alt="Annotated Pie Chart" width="475"/>
 </p>
 
 ## 11. Future Work
