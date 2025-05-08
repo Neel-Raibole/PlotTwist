@@ -1,0 +1,70 @@
+PlotTwist Project/DataZymes
+¦   .dockerignore
+¦   Capstone_Project_Code.py
+¦   dockerfile
+¦   EDSR_x4.pb
+¦   README.md
+¦   mistral-7b-instruct-v0.1.Q5_K_M.gguf
+¦   requirements.txt
+¦   Roadmap.xlsx
+¦   streamlit_app.py
+¦   
++---Graphs_Repository
+¦   ¦   config.yaml
+¦   ¦   hpo_config.yaml
+¦   ¦   
+¦   +---Complete Training
+¦   ¦   ¦   YOLO_Training.ipynb
+¦   ¦   ¦   
+¦   ¦   +---images
+¦   ¦   ¦   +---train
+¦   ¦   ¦   ¦       [training Chart Image Files]
+¦   ¦   ¦   ¦       
+¦   ¦   ¦   +---val
+¦   ¦   ¦           [validation Chart Image Files]
+¦   ¦   ¦           
+¦   ¦   +---labels
+¦   ¦       +---train
+¦   ¦       ¦       [training YOLO Files]
+¦   ¦       ¦       
+¦   ¦       +---val
+¦   ¦               [validation YOLO Files]
+¦   ¦               
+¦   +---HPO Training
+¦       +---images
+¦       ¦   +---train
+¦       ¦   ¦       [HPO training Chart Image Files]
+¦       ¦   ¦       
+¦       ¦   +---val
+¦       ¦           [HPO validation Chart Image Files]
+¦       ¦           
+¦       +---labels
+¦           +---train
+¦           ¦       [HPO training YOLO Files]
+¦           ¦       
+¦           +---val
+¦                   [HPO validation YOLO Files]
+¦                   
++---paddle_models
+¦   +---cls
+¦   ¦       inference.pdiparams
+¦   ¦       inference.pdiparams.info
+¦   ¦       inference.pdmodel
+¦   ¦       
+¦   +---det
+¦   ¦       inference.pdiparams
+¦   ¦       inference.pdiparams.info
+¦   ¦       inference.pdmodel
+¦   ¦       
+¦   +---rec
+¦           inference.pdiparams
+¦           inference.pdiparams.info
+¦           inference.pdmodel
+¦           
++---run2
+¦   +---detect
+¦       [YOLO Model Training Weights & Results]
+¦
++---Test_Images
+        [Post Training Testing Example Chart Image Files]
+        
