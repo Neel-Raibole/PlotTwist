@@ -316,12 +316,41 @@ Confusion Matrix:
 
 Below are example screenshots demonstrating the end-to-end functionality:
 
-![Bar Chart with Data Points Output](urlplaceholder.jpg)
-![Bar Chart without Data Points Output](urlplaceholder.jpg)
-![Line Chart with Data Points Output](urlplaceholder.jpg)
-![Line Chart without Data Points Output](urlplaceholder.jpg)
-![Pie Chart with Data Points Output](urlplaceholder.jpg)
-![Pie Chart without Data Points Output](urlplaceholder.jpg)
+**Bar Chart with Data Point Samples**
+<p align="center">
+  <img src="http://url/to/img1.png" alt="Non-Annotated Bar Chart" width="475"/>
+  <img src="http://url/to/img1.png" alt="Annotated Bar Chart" width="475"/>
+</p>
+
+**Bar Chart without Data Point Samples**
+<p align="center">
+  <img src="http://url/to/img1.png" alt="Non-Annotated Bar Chart" width="475"/>
+  <img src="http://url/to/img1.png" alt="Annotated Bar Chart" width="475"/>
+</p>
+
+**Line Chart with Data Point Samples**
+<p align="center">
+  <img src="http://url/to/img1.png" alt="Non-Annotated Line Chart" width="475"/>
+  <img src="http://url/to/img1.png" alt="Annotated Line Chart" width="475"/>
+</p>
+
+**Line Chart without Data Point Samples**
+<p align="center">
+  <img src="http://url/to/img1.png" alt="Non-Annotated Line Chart" width="475"/>
+  <img src="http://url/to/img1.png" alt="Annotated Line Chart" width="475"/>
+</p>
+
+**Pie Chart with Data Point Samples**
+<p align="center">
+  <img src="http://url/to/img1.png" alt="Non-Annotated Pie Chart" width="475"/>
+  <img src="http://url/to/img1.png" alt="Annotated Pie Chart" width="475"/>
+</p>
+
+**Pie Chart without Data Point Samples**
+<p align="center">
+  <img src="http://url/to/img1.png" alt="Non-Annotated Pie Chart" width="475"/>
+  <img src="http://url/to/img1.png" alt="Annotated Pie Chart" width="475"/>
+</p>
 
 ## 11. Future Work
 
