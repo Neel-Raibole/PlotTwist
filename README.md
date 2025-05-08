@@ -98,20 +98,20 @@ Annotations are saved in YOLO format and were used to train the detection model.
 ### Sample Images
 **Bar Chart Samples**
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bar%20chart%20non-annotated.png" alt="Non-Annotated Bar Chart" width="475"/>
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bar%20chart%20annotated.jpg" alt="Annotated Bar Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bar%20chart%20non-annotated.png" alt="Non-Annotated Bar Chart" width="300"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bar%20chart%20annotated.jpg" alt="Annotated Bar Chart" width="300"/>
 </p>
 
 **Line Chart Samples**
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/line%20chart%20non-annotated.png" alt="Non-Annotated Line Chart" width="475"/>
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/line%20chart%20annotated.jpg" alt="Annotated Line Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/line%20chart%20non-annotated.png" alt="Non-Annotated Line Chart" width="300"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/line%20chart%20annotated.jpg" alt="Annotated Line Chart" width="300"/>
 </p>
 
 **Pie Chart Samples**
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pie%20chart%20non-annotated.png" alt="Non-Annotated Pie Chart" width="475"/>
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pie%20chart%20annotated.jpg" alt="Annotated Pie Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pie%20chart%20non-annotated.png" alt="Non-Annotated Pie Chart" width="300"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pie%20chart%20annotated.jpg" alt="Annotated Pie Chart" width="300"/>
 </p>
 
 ## 5. Methodology
@@ -318,38 +318,38 @@ Below are example screenshots demonstrating the end-to-end functionality:
 
 **Bar Chart with Data Point Samples**
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wd%201.jpg" alt="Non-Annotated Bar Chart" width="475"/>
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wd%202.jpg" alt="Annotated Bar Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wd%201.jpg" alt="Non-Annotated Bar Chart" width="300"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wd%202.jpg" alt="Annotated Bar Chart" width="300"/>
 </p>
 
 **Bar Chart without Data Point Samples**
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wod%201.jpg" alt="Non-Annotated Bar Chart" width="475"/>
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wod%202.jpg" alt="Annotated Bar Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wod%201.jpg" alt="Non-Annotated Bar Chart" width="300"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/bc%20output%20wod%202.jpg" alt="Annotated Bar Chart" width="300"/>
 </p>
 
 **Line Chart with Data Point Samples**
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wd%201.jpg" alt="Non-Annotated Line Chart" width="475"/>
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wd%202.jpg" alt="Annotated Line Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wd%201.jpg" alt="Non-Annotated Line Chart" width="300"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wd%202.jpg" alt="Annotated Line Chart" width="300"/>
 </p>
 
 **Line Chart without Data Point Samples**
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wod%201.jpg" alt="Non-Annotated Line Chart" width="475"/>
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wod%202.jpg" alt="Annotated Line Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wod%201.jpg" alt="Non-Annotated Line Chart" width="300"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/lc%20output%20wod%202.jpg" alt="Annotated Line Chart" width="300"/>
 </p>
 
 **Pie Chart with Data Point Samples**
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wd%201.jpg" alt="Non-Annotated Pie Chart" width="475"/>
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wd%202.jpg" alt="Annotated Pie Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wd%201.jpg" alt="Non-Annotated Pie Chart" width="300"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wd%202.jpg" alt="Annotated Pie Chart" width="300"/>
 </p>
 
 **Pie Chart without Data Point Samples**
 <p align="center">
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wod%201.jpg" alt="Non-Annotated Pie Chart" width="475"/>
-  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wod%202.jpg" alt="Annotated Pie Chart" width="475"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wod%201.jpg" alt="Non-Annotated Pie Chart" width="300"/>
+  <img src="https://github.com/Neel-Raibole/DataZymes/blob/main/demo%20images/pc%20output%20wod%202.jpg" alt="Annotated Pie Chart" width="300"/>
 </p>
 
 ## 11. Future Work
