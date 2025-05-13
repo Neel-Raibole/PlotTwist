@@ -1,4 +1,4 @@
-# PlotTwist Project
+# PlotTwist (Automated Chart Interpretation and Summarization Pipeline)
 
 ## 1. Introduction
 
